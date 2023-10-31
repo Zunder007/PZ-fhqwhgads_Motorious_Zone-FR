@@ -224,4 +224,8 @@ IG_UI_FR = {
 	IGUI_VehicleNamefhq58Sub360 = "Pléiades Tentomushi",
 	
 	IGUI_VehicleNamefhqRX7FB_C = "Matsuda Zavana 'Béta' SE",
+
+	IGUI_VehicleNamefhq58Belvedere = "Mayflower Bellezza",
+	IGUI_VehicleNamefhq58Fury = "Mayflower Vengeance",
+	IGUI_VehicleNamefhqChristine = "Christine",
 }
